@@ -1,0 +1,10 @@
+#header_site{
+    background: #fafafa;
+    padding: 1rem 0;
+}
+#header_site .menu_site{
+    margin-bottom: 0;
+}
+#header_site .menu_site li:not(:last-child){
+    margin-right: 1rem;
+}
